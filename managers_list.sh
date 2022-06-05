@@ -5,3 +5,4 @@ List of managers
 3. Ray
 4. Olivia
 5. Bola
+6. Kelechi
