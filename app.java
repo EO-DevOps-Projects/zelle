@@ -3,3 +3,4 @@ read username
 echo "Please enter your password:"
 read -s password
 echo "Welcome to the zell application."
+echo 
