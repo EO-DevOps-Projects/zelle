@@ -1,5 +1,9 @@
-# List of admin
-Mike
-Clay
-Chris
-Reggie
+# List of DevOps Engineers
+Eric
+Evolie
+Landmark
+Jessica
+Rudolf
+Chuka
+Ken
+Kenedy
